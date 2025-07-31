@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">proyectosmartalert</string>
+    <string name="esc_imagen_final">esc_imagen_final</string>
+    <string name="felicidades">felicidades</string>
+    <string name="volver_inicio">Regresar</string>
+    <string name="desc_imagen">desc_imagen</string>
+    <string name="siguiente">siguiente</string>
+    <string name="titulo_presentacion">Cuestionario: Estaciones del Año</string>
+    <string name="descripcion_cuestionario">¡¿Qué tanto sabes sobre las estaciones de nuestro planeta?!</string>
+    <string name="btn_comenzar">Empezar cuestionario</string>
+    <string name="cuestionario_btn">Cuestionario: Las 4 estaciones</string>
+    <string name="escoja_una_opcion">Escoja una opcion</string>
+    <string name="otro_programa_btn">Smart Alert Stopwatch</string>
+
+</resources>

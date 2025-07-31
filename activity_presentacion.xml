@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="24dp"
+    android:background="@color/colorFondo">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/titulo_presentacion"
+        android:textSize="22sp"
+        android:textColor="@color/colorTexto"
+        android:textAlignment="center"
+        android:layout_marginBottom="32dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="48dp"
+        android:lineSpacingExtra="4dp"
+        android:text="@string/descripcion_cuestionario"
+        android:textColor="@color/colorTexto"
+        android:textSize="16sp"
+        tools:textAlignment="center" />
+
+    <Button
+        android:id="@+id/btnComenzar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_comenzar"
+        android:backgroundTint="@color/colorPrimario"
+        android:textColor="@color/colorTextoClaro"
+        android:paddingHorizontal="32dp"
+        android:paddingVertical="16dp"/>
+
+</LinearLayout>
